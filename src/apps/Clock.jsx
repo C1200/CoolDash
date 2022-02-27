@@ -30,8 +30,8 @@ function Clock({ language }) {
         language["month.dec"]
     ];
     
-    const [name, setName] = usePersistentState("name", "");
-    const [pref24h, set24h] = usePersistentState("24h", "no");
+    const [name] = usePersistentState("name", "");
+    const [pref24h] = usePersistentState("24h", "no");
     const [date, setDate] = React.useState(new Date());
     
     React.useEffect(() => {
