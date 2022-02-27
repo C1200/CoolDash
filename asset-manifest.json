@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/CoolDash/static/css/main.c3bb6dbf.css",
-    "main.js": "/CoolDash/static/js/main.b5cc7ecf.js",
+    "main.js": "/CoolDash/static/js/main.2907cb5d.js",
     "index.html": "/CoolDash/index.html",
     "main.c3bb6dbf.css.map": "/CoolDash/static/css/main.c3bb6dbf.css.map",
-    "main.b5cc7ecf.js.map": "/CoolDash/static/js/main.b5cc7ecf.js.map"
+    "main.2907cb5d.js.map": "/CoolDash/static/js/main.2907cb5d.js.map"
   },
   "entrypoints": [
     "static/css/main.c3bb6dbf.css",
-    "static/js/main.b5cc7ecf.js"
+    "static/js/main.2907cb5d.js"
   ]
 }
