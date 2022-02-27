@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cooldash/static/css/main.c3bb6dbf.css",
+    "main.js": "/cooldash/static/js/main.b5cc7ecf.js",
+    "index.html": "/cooldash/index.html",
+    "main.c3bb6dbf.css.map": "/cooldash/static/css/main.c3bb6dbf.css.map",
+    "main.b5cc7ecf.js.map": "/cooldash/static/js/main.b5cc7ecf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3bb6dbf.css",
+    "static/js/main.b5cc7ecf.js"
+  ]
+}

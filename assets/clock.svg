@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" version="1.1" width="512" height="512" x="0" y="0" viewBox="0 0 347.442 347.442" style="enable-background:new 0 0 512 512" xml:space="preserve" class="">
+  <rect width="347.442" height="347.442" fill="#007cff" shape="square"/>
+  <g transform="matrix(0.65,0,0,0.65,60.80234756469724,60.80234756469726)">
+    <g xmlns="http://www.w3.org/2000/svg">
+      <g>
+        <path d="m173.721 347.442c95.919 0 173.721-77.802 173.721-173.721s-77.802-173.721-173.721-173.721-173.721 77.802-173.721 173.721 77.802 173.721 173.721 173.721zm-12.409-272.99c0-6.825 5.584-12.409 12.409-12.409s12.409 5.584 12.409 12.409v93.313l57.39 45.912c5.336 4.281 6.204 12.098 1.923 17.434-2.42 3.04-6.018 4.653-9.679 4.653-2.73 0-5.46-.869-7.755-2.73l-62.043-49.634c-2.916-2.358-4.653-5.894-4.653-9.679v-99.269z" fill="#ffcb00" data-original="#000000" class=""/>
+      </g>
+    </g>
+  </g>
+</svg>
