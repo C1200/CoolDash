@@ -5,7 +5,7 @@ function AppTray({ apps=[], switchApp }) {
         <div className="apps">
             {apps.map((app) => (
                 <div key={app.id} className="app" onClick={() => switchApp(app.id)}>
-                    <img src={app.icon} alt="" />
+                    <img src={process.env.PUBLIC_URL + app.icon} alt="" />
                     <p>{app.name}</p>
                 </div>
             ))}
