@@ -19,7 +19,8 @@ function App() {
                    done={(name) => setName(name)}
                 />;
 
-    var AppComponent = apps.find(el => el.id === app).func;
+    var AppComponent = (apps.find(el => el.id === app) ||
+                        { func: () => null }).func;
     
     return (
         <main>
